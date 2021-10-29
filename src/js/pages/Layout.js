@@ -25,3 +25,4 @@ class Layout extends React.Component {
     )
   }
 }
+export default withRouter(Layout);
